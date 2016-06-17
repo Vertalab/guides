@@ -1,5 +1,4 @@
-# peanutbutter
-No trans fats | No cholesterol
+# the project title
 
 ## Code Status
 
